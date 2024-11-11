@@ -1,2 +1,2 @@
 # Shivam-Gupta
-![](https://leetcard.jacoblin.cool/jacoblincool?width=500&height=500)
+![](https://leetcard.jacoblin.cool/jacoblincool?font=Dancing_Script)
